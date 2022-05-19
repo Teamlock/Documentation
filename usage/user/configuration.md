@@ -2,7 +2,7 @@
 title: User configuration
 description: Documentation to configure a Teamlock Account
 published: true
-date: 2022-05-11T19:40:02.926Z
+date: 2022-05-19T15:49:12.948Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T13:21:04.946Z
@@ -10,7 +10,7 @@ dateCreated: 2022-05-11T13:21:04.946Z
 
 ![capture_d’écran_2022-05-11_à_15.15.05.png](/captures/capture_d’écran_2022-05-11_à_15.15.05.png =500x)
 
-Here, you can define your password accordingly your enterprise password policy
+Here, you can define your password accordingly to your enterprise password policy
 
 ![capture_d’écran_2022-05-11_à_15.15.12.png](/captures/capture_d’écran_2022-05-11_à_15.15.12.png =500x)
 
