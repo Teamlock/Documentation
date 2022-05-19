@@ -2,7 +2,7 @@
 title: User configuration
 description: Documentation to configure a Teamlock Account
 published: true
-date: 2022-05-19T15:51:41.957Z
+date: 2022-05-19T15:54:29.017Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T13:21:04.946Z
@@ -20,7 +20,7 @@ Download a MFA App like Google/Microsoft Authenticator and flash the QR Code to 
 
 The registration can take a bit of time to generate your RSA Keys.
 
-After login on Teamlock, a message will appear to remind you to download your recovery key.
+After logging in to Teamlock, a message will appear to remind you to download your recovery key, if you haven't done it already.
 
 - [Account recovering *How to recover your account.*](/usage/user/recover)
 {.links-list}
