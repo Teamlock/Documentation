@@ -2,7 +2,7 @@
 title: User configuration
 description: Documentation to configure a Teamlock Account
 published: true
-date: 2022-05-19T15:49:12.948Z
+date: 2022-05-19T15:51:41.957Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T13:21:04.946Z
@@ -18,7 +18,7 @@ In case of your enterprise has enforced multi factor authentication you will be 
 
 Download a MFA App like Google/Microsoft Authenticator and flash the QR Code to obtain your one time password.
 
-The registration can take a bit of time, time needed to generate your RSA Keys.
+The registration can take a bit of time to generate your RSA Keys.
 
 After login on Teamlock, a message will appear to remind you to download your recovery key.
 
