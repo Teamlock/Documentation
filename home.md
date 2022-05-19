@@ -2,7 +2,7 @@
 title: Teamlock Documentation
 description: Official documentation
 published: true
-date: 2022-05-19T16:11:04.849Z
+date: 2022-05-19T16:12:18.087Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T11:54:35.873Z
