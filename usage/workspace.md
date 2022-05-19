@@ -2,7 +2,7 @@
 title: Workspace
 description: Workspace usage documentation
 published: true
-date: 2022-05-19T16:01:08.648Z
+date: 2022-05-19T16:01:30.303Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T17:20:15.723Z
@@ -28,4 +28,4 @@ This is the Workspace creation form.
 ## Password Policy
 
 You can define a password policy for the Workspace.
-All saved secrets must at least respect this policy.
+All saved secrets must respect this policy.
