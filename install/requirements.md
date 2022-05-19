@@ -2,7 +2,7 @@
 title: Requirements
 description: Prerequisites to install Teamlock
 published: true
-date: 2022-05-11T17:16:02.892Z
+date: 2022-05-19T13:41:11.989Z
 tags: requirements
 editor: markdown
 dateCreated: 2022-05-10T12:40:36.855Z

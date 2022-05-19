@@ -2,7 +2,7 @@
 title: History
 description: Teamlock history documentation
 published: true
-date: 2022-05-19T16:10:30.487Z
+date: 2022-05-19T16:10:33.600Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T20:21:23.347Z

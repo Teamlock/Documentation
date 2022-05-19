@@ -2,7 +2,7 @@
 title: Secrets
 description: Documentation on Teamlock secrets
 published: true
-date: 2022-05-19T16:05:18.780Z
+date: 2022-05-19T16:05:21.857Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T19:56:47.946Z

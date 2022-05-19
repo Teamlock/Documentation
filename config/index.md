@@ -2,7 +2,7 @@
 title: Teamlock Configuration
 description: Guide to configure Teamlock
 published: true
-date: 2022-05-11T19:37:10.144Z
+date: 2022-05-19T13:41:02.396Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T12:34:08.525Z

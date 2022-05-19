@@ -2,7 +2,7 @@
 title: Installation
 description: Instruction to install and launch Teamlock
 published: true
-date: 2022-05-11T14:00:19.046Z
+date: 2022-05-19T13:41:08.653Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T13:26:23.649Z

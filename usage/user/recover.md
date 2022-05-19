@@ -2,7 +2,7 @@
 title: Recover Account
 description: Documentation to recover a Teamlock account
 published: true
-date: 2022-05-19T15:58:18.477Z
+date: 2022-05-19T15:58:21.553Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T19:37:32.359Z

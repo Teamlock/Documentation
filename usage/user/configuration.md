@@ -2,7 +2,7 @@
 title: User configuration
 description: Documentation to configure a Teamlock Account
 published: true
-date: 2022-05-19T15:54:29.017Z
+date: 2022-05-19T15:54:32.105Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T13:21:04.946Z
