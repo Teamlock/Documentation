@@ -2,7 +2,7 @@
 title: Recover Account
 description: Documentation to recover a Teamlock account
 published: true
-date: 2022-05-11T19:54:07.248Z
+date: 2022-05-19T15:58:18.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T19:37:32.359Z
@@ -12,7 +12,7 @@ dateCreated: 2022-05-11T19:37:32.359Z
 
 This warning will appear each time you open Teamlock until you download your recovery key.
 
-The recovery key is just a file that will allow you to recover your account in case your forgot your password.
+The recovery key is just a file that will allow you to recover your account in case your forget your password.
 
 You can download the recovery key in your profile.
 
@@ -24,4 +24,4 @@ Store the file very secure.
 
 This form will allow you to recover your account.
 Before you can do this, you must contact your administrator to authorize your account to be recovered.
-It's a security, in case someone find your recovery key.
+It's a security measure, in case someone finds your recovery key, they won't be able to use it.
