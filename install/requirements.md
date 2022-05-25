@@ -2,7 +2,7 @@
 title: Requirements
 description: Prerequisites to install Teamlock
 published: true
-date: 2022-05-25T12:10:00.072Z
+date: 2022-05-25T12:12:00.414Z
 tags: requirements
 editor: markdown
 dateCreated: 2022-05-10T12:40:36.855Z
@@ -41,13 +41,7 @@ Python 3.10 or later is required for Teamlock to run properly
 
 ![](https://openwhisk.apache.org/images/runtimes/icon-python-text-color-horz.png =250x)
 
-# **Web Server**
 
-Wiki.js doesn't need any actual web server (such as nginx or Apache). 
-However, you might need to put a reverse proxy in front of your Teamlock instance if you require advanced network / DNS configuration.
-
-Also, we recommand you to configure encrypted trafic in all communication.
-Including Database communication.
 
 
 # **Web Application Firewall**
