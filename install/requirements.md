@@ -2,7 +2,7 @@
 title: Requirements
 description: Prerequisites to install Teamlock
 published: true
-date: 2022-05-19T13:41:11.989Z
+date: 2022-05-25T12:10:00.072Z
 tags: requirements
 editor: markdown
 dateCreated: 2022-05-10T12:40:36.855Z
@@ -52,7 +52,7 @@ Including Database communication.
 
 # **Web Application Firewall**
 
-Teamlock will store sensible data, we recommend you to route your trafic via a Web Application Firewall. 
+Teamlock will store sensible data, we recommend you to use a Web Application Firewall. 
 Some are free like ModSecurity for Apache, Naxsi for Nginx.
 Or you can create an account at Cloudflare for free.
 
