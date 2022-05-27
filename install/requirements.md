@@ -2,7 +2,7 @@
 title: Requirements
 description: Prerequisites to install Teamlock
 published: true
-date: 2022-05-25T12:13:30.508Z
+date: 2022-05-27T07:45:51.659Z
 tags: requirements
 editor: markdown
 dateCreated: 2022-05-10T12:40:36.855Z
@@ -47,7 +47,7 @@ Python 3.10 or later is required for Teamlock to run properly
 # **Web Application Firewall**
 
 Teamlock will store sensible data, we recommend you to use a Web Application Firewall. 
-Some are free like ModSecurity for Apache, Naxsi for Nginx, Vulture.
+Some are free like ModSecurity for Apache, Naxsi for Nginx.
 Or you can create an account at Cloudflare for free.
 
 [![](https://sitecorecdn.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/cloudflare/cloudflare-logo.png =250x)](https://cloudflare.com/)
