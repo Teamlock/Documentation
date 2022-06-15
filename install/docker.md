@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-05-19T13:41:05.673Z
+date: 2022-06-15T11:53:34.391Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -34,6 +34,14 @@ All variables are required for Teamlock to works.
 - **SMTP_EMAIL** : SMTP User (required if SMTP_AUTH is **true**)
 - **SMTP_PASSWORD** : SMTP Password (required if SMTP_AUTH is **true**)
 - **SMTP_SSL**: SMTP SSL *(e.g `true`)*
+{.grid-list}
+
+### Twilio
+
+- **TWILIO_ENABLED** : Enable Twilio *(e.g `true`)*
+- **TWILIO_ACCOUNT_SID** : Twilio Account SID
+- **TWILIO_AUTH_TOKEN** : Twilio Auth Token
+- **TWILIO_PHONE_NUMBER** : Twilio phone number
 {.grid-list}
 
 ### Database
@@ -83,6 +91,10 @@ services:
       SMTP_EMAIL: email@gmail.com
       SMTP_PASSWORD: PASSWORD
       SECRET_KEY: AREALYSTRONGSECRETKEY
+      # TWILIO_ENABLED: "false"
+      # TWILIO_ACCOUNT_SID: ""
+      # TWILIO_AUTH_TOKEN: ""
+      # TWILIO_PHONE_NUMBER: ""
     volumes:
       - /var/log/teamlock:/var/log/teamlock
     depends_on:
