@@ -2,7 +2,7 @@
 title: Requirements
 description: Prerequisites to install Teamlock
 published: true
-date: 2022-05-27T07:45:51.659Z
+date: 2022-06-23T13:21:22.113Z
 tags: requirements
 editor: markdown
 dateCreated: 2022-05-10T12:40:36.855Z
@@ -50,8 +50,7 @@ Teamlock will store sensible data, we recommend you to use a Web Application Fir
 Some are free like ModSecurity for Apache, Naxsi for Nginx.
 Or you can create an account at Cloudflare for free.
 
-[![](https://sitecorecdn.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/cloudflare/cloudflare-logo.png =250x)](https://cloudflare.com/)
-
+[![cloudflare-logo.png](/cloudflare-logo.png =250x)](https://cloudflare.com/)
 [![](https://www.kindpng.com/picc/m/123-1234584_modsecuritylogo-apache-mod-security-logo-hd-png-download.png =250x)](https://www.modsecurity.org/)
 
 [![](https://raw.githubusercontent.com/nbs-system/naxsi/master/logo.png =250x)](https://github.com/nbs-system/naxsi)
