@@ -2,7 +2,7 @@
 title: Workspace
 description: Workspace usage documentation
 published: true
-date: 2022-07-01T14:48:22.139Z
+date: 2022-07-01T14:48:33.784Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T17:20:15.723Z
