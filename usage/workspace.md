@@ -2,7 +2,7 @@
 title: Workspace
 description: Workspace usage documentation
 published: true
-date: 2022-05-19T16:01:33.276Z
+date: 2022-07-01T14:48:22.139Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T17:20:15.723Z
@@ -13,7 +13,7 @@ We recommand you to create a workspace for each team and/or project within your 
 
 This way you will only be able to share the secrets with the right people.
 
-![capture_d’écran_2022-05-11_à_19.23.00.png](/captures/capture_d’écran_2022-05-11_à_19.23.00.png)
+![capture_d’écran_2022-05-11_à_19.23.00.png](/captures/capture_d’écran_2022-05-11_à_19.23.00.png =1000x)
 
 Here is the front page of Teamlock.
 On the left you can see the list of your Workspace.
