@@ -2,13 +2,13 @@
 title: Secrets
 description: Documentation on Teamlock secrets
 published: true
-date: 2022-05-19T16:05:21.857Z
+date: 2022-07-01T14:49:16.450Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T19:56:47.946Z
 ---
 
-![capture_d’écran_2022-05-11_à_21.57.56.png](/captures/capture_d’écran_2022-05-11_à_21.57.56.png =350x)
+![capture_d’écran_2022-05-11_à_21.57.56.png](/captures/capture_d’écran_2022-05-11_à_21.57.56.png =500x)
 
 This is the secret creation form. 
 
