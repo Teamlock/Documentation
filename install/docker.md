@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-06-22T14:14:11.194Z
+date: 2022-07-08T09:41:27.757Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -33,14 +33,6 @@ An image is available on [Docker Hub](https://hub.docker.com/repository/docker/r
 - **SMTP_EMAIL** : SMTP User (required if SMTP_AUTH is **true**)
 - **SMTP_PASSWORD** : SMTP Password (required if SMTP_AUTH is **true**)
 - **SMTP_SSL**: SMTP SSL *(e.g `true`)*
-{.grid-list}
-
-### Twilio
-
-- **TWILIO_ENABLED** : Enable Twilio *(e.g `true`)*
-- **TWILIO_ACCOUNT_SID** : Twilio Account SID
-- **TWILIO_AUTH_TOKEN** : Twilio Auth Token
-- **TWILIO_PHONE_NUMBER** : Twilio phone number
 {.grid-list}
 
 ### Database
