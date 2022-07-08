@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-07-08T09:41:27.757Z
+date: 2022-07-08T10:10:22.672Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -82,10 +82,6 @@ services:
       SMTP_EMAIL: email@gmail.com
       SMTP_PASSWORD: PASSWORD
       SECRET_KEY: AREALYSTRONGSECRETKEY
-      # TWILIO_ENABLED: "false"
-      # TWILIO_ACCOUNT_SID: ""
-      # TWILIO_AUTH_TOKEN: ""
-      # TWILIO_PHONE_NUMBER: ""
     volumes:
       - /var/log/teamlock:/var/log/teamlock
     depends_on:
