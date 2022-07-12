@@ -2,7 +2,7 @@
 title: User configuration
 description: Documentation to configure a Teamlock Account
 published: true
-date: 2022-05-19T15:54:32.105Z
+date: 2022-07-12T10:53:15.683Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T13:21:04.946Z
@@ -12,6 +12,7 @@ dateCreated: 2022-05-11T13:21:04.946Z
 
 Here, you can define your password accordingly to your enterprise password policy
 
+**PRO VERSION** 
 ![capture_d’écran_2022-05-11_à_15.15.12.png](/captures/capture_d’écran_2022-05-11_à_15.15.12.png =500x)
 
 In case of your enterprise has enforced multi factor authentication you will be forced to configure MFA on your account.
