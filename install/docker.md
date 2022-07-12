@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-07-08T10:10:22.672Z
+date: 2022-07-12T10:48:25.903Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -13,7 +13,7 @@ dateCreated: 2022-05-11T12:01:42.649Z
 
 # Using the Docker image
 
-An image is available on [Docker Hub](https://hub.docker.com/repository/docker/raznak/teamlock).
+An image is available on [Docker Hub](https://hub.docker.com/repository/docker/teamlockproject/teamlock).
 
 ## Environment Variables
 
@@ -62,7 +62,7 @@ An image is available on [Docker Hub](https://hub.docker.com/repository/docker/r
 version: "3"
 services:
   teamlock:
-    image: raznak/teamlock:0.2
+    image: teamlockproject/teamlock:0.1
     ports:
       - 8000:8000
     environment:
