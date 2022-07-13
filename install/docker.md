@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-07-12T11:21:25.774Z
+date: 2022-07-13T08:37:33.581Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -117,10 +117,10 @@ After, verify that the stack is successfully launched
 ```bash
 docker ps
 
-CONTAINER ID   IMAGE                   COMMAND                  CREATED          STATUS          PORTS                    NAMES
-9c1260406322   raznak/teamlockv2:0.1   "python main.py"         50 seconds ago   Up 49 seconds   0.0.0.0:8000->8000/tcp   teamlock_teamlock_1
-93b06f10ead9   mongo:5.0.8             "docker-entrypoint.s…"   50 seconds ago   Up 50 seconds   27017/tcp                teamlock_mongo_1
-2916ddc7f1d5   redis                   "docker-entrypoint.s…"   50 seconds ago   Up 50 seconds   6379/tcp                 teamlock_redis_1
+CONTAINER ID   IMAGE                          COMMAND                  CREATED          STATUS         PORTS                    NAMES
+4cb58261ecbc   teamlockproject/teamlock:1.0   "/env/bin/python mai…"   7 seconds ago    Up 5 seconds   0.0.0.0:8000->8000/tcp   teamlock-teamlock-1
+a8ac088c91ee   mongo:4.4                      "docker-entrypoint.s…"   29 minutes ago   Up 6 seconds   27017/tcp                teamlock-mongo-1
+e3c4380ace6a   redis                          "docker-entrypoint.s…"   29 minutes ago   Up 6 seconds   6379/tcp                 teamlock-redis-1
 ```
 
 # Next
