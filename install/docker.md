@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-07-23T12:19:29.253Z
+date: 2022-07-23T12:20:30.523Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -62,7 +62,7 @@ An image is available on [Github](https://github.com/Teamlock/Teamlock/pkgs/cont
 version: "3"
 services:
   teamlock:
-    image: teamlockproject/teamlock:1.0
+    image: ghcr.io/teamlock/teamlock:1.0
     ports:
       - 8000:8000
     environment:
@@ -118,7 +118,7 @@ After, verify that the stack is successfully launched
 docker ps
 
 CONTAINER ID   IMAGE                          COMMAND                  CREATED          STATUS         PORTS                    NAMES
-4cb58261ecbc   teamlockproject/teamlock:1.0   "/env/bin/python mai…"   7 seconds ago    Up 5 seconds   0.0.0.0:8000->8000/tcp   teamlock-teamlock-1
+4cb58261ecbc   ghcr.io/teamlock/teamlock:1.0  "/env/bin/python mai…"   7 seconds ago    Up 5 seconds   0.0.0.0:8000->8000/tcp   teamlock-teamlock-1
 a8ac088c91ee   mongo:4.4                      "docker-entrypoint.s…"   29 minutes ago   Up 6 seconds   27017/tcp                teamlock-mongo-1
 e3c4380ace6a   redis                          "docker-entrypoint.s…"   29 minutes ago   Up 6 seconds   6379/tcp                 teamlock-redis-1
 ```
