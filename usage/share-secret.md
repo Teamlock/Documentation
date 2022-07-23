@@ -1,8 +1,8 @@
 ---
-title: Share secret
+title: External share (PRO)
 description: Share secret to external people
 published: true
-date: 2022-06-15T12:00:37.239Z
+date: 2022-07-23T15:33:00.041Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T12:00:37.239Z
