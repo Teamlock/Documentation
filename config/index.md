@@ -2,7 +2,7 @@
 title: Teamlock Configuration
 description: Guide to configure Teamlock
 published: true
-date: 2022-05-19T13:41:02.396Z
+date: 2022-07-23T15:32:22.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T12:34:08.525Z
@@ -15,7 +15,7 @@ Go to: **http://\<ip\>:8000/#/install**
 ![capture_d’écran_2022-05-11_à_14.32.24.png](/captures/capture_d’écran_2022-05-11_à_14.32.24.png =500x)
 
 - **Size of User's RSA Keys** : RSA Size for User's Private and Public Keys
-- **Enforce MFA** : Force users to enable Multi Factor Authentication
+- **Enforce MFA (PRO Only)** : Force users to enable Multi Factor Authentication
 - **Allow self registration** : Allow users to self register on Teamlock
 - **Allowed email addresses** : This input will be visible only if self registration is enabled. This input will allow you to authorize only users with your enterprise email address
 {.grid-list}
