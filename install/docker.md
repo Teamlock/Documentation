@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-07-13T08:37:33.581Z
+date: 2022-07-23T12:19:29.253Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -13,7 +13,7 @@ dateCreated: 2022-05-11T12:01:42.649Z
 
 # Using the Docker image
 
-An image is available on [Docker Hub](https://hub.docker.com/repository/docker/teamlockproject/teamlock).
+An image is available on [Github](https://github.com/Teamlock/Teamlock/pkgs/container/teamlock).
 
 ## Environment Variables
 
