@@ -2,7 +2,7 @@
 title: Docker Installation
 description: Launch Teamlock Stack using Docker
 published: true
-date: 2022-07-23T12:20:30.523Z
+date: 2022-07-23T15:31:46.343Z
 tags: docker, install
 editor: markdown
 dateCreated: 2022-05-11T12:01:42.649Z
@@ -124,5 +124,5 @@ e3c4380ace6a   redis                          "docker-entrypoint.s…"   29 minu
 ```
 
 # Next
-- [Configuration *Instruction to Configure Teamlock.*](/config/index)
+- [Configuration *Instruction to configure Teamlock.*](/config/index)
 {.links-list}
