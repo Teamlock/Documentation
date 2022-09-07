@@ -2,7 +2,7 @@
 title: Recover Account
 description: Documentation to recover a Teamlock account
 published: true
-date: 2022-05-19T15:58:21.553Z
+date: 2022-09-07T06:41:20.505Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T19:37:32.359Z
@@ -18,7 +18,7 @@ You can download the recovery key in your profile.
 
 ![capture_d’écran_2022-05-11_à_21.49.51.png](/captures/capture_d’écran_2022-05-11_à_21.49.51.png =500x)
 
-Store the file very secure.
+Store the file very securely.
 
 ![capture_d’écran_2022-05-11_à_21.51.54.png](/captures/capture_d’écran_2022-05-11_à_21.51.54.png =400x)
 
