@@ -2,13 +2,15 @@
 title: Recovery Configuration
 description: 
 published: true
-date: 2022-09-12T09:28:15.345Z
+date: 2022-09-12T09:43:23.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:26:21.270Z
 ---
 
 As an Administrator, you can define an external storage to store user's recovery key.
+
+When an user configure his account, or change his password, the recovery key will be send to the external storage.
 
 Go to Administration, then click on **Recovery External Storage** tab.
 
