@@ -2,7 +2,7 @@
 title: SFTP Configuration
 description: 
 published: true
-date: 2022-09-12T09:47:20.642Z
+date: 2022-09-12T12:47:06.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:47:20.642Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-12T09:47:20.642Z
 
 You can use SSH to send User's recovery key.
 
-![capture_d’écran_2022-09-12_à_11.45.35.png](/captures/capture_d’écran_2022-09-12_à_11.45.35.png =600x)
+![capture_d’écran_2022-09-12_à_11.45.35.png](/captures/capture_d’écran_2022-09-12_à_11.45.35.png =1000x)
 
 - SFTP Host: IP Address or Hostname of the SSH Server
 - SFTP Username
