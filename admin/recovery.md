@@ -2,7 +2,7 @@
 title: Recovery Configuration
 description: 
 published: true
-date: 2022-09-12T12:46:33.026Z
+date: 2022-09-12T12:46:44.790Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:26:21.270Z
@@ -14,7 +14,7 @@ When an user configure his account, or change his password, the recovery key wil
 
 Go to Administration, then click on **Recovery External Storage** tab.
 
-![recovery_configuration.png](/captures/recovery_configuration.png =800x)
+![recovery_configuration.png](/captures/recovery_configuration.png =1000x)
 
 You can configure two external storage:
 
