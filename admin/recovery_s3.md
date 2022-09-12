@@ -2,7 +2,7 @@
 title: S3 Recovery Configuration
 description: 
 published: true
-date: 2022-09-12T09:42:48.003Z
+date: 2022-09-12T09:45:12.734Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:42:48.003Z
@@ -36,3 +36,12 @@ Click on the button on the right of the line, then select **Add a user to a cont
 If you have no users available, follow the OVH Documentation to create one:
 
 [OVH Documentation](https://docs.ovh.com/fr/storage/s3/debuter-avec-s3/)
+
+
+Then, in the Teamlock form, you can define the following data:
+
+- S3 Endpoint URL
+- S3 Access Key
+- S3 Secret Key
+- S3 Region Name (lowercase)
+- S3 Bucket name (Name of the Object Storage)
